@@ -1,6 +1,6 @@
 <!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). -->
 
-## Getting Started
+## EXCUSING 3000
 
 EXCUSING 3000 is a tool that can be useful during extremely sticky situations.
 
@@ -10,6 +10,8 @@ that you'll be able to furnish to the other subject.
 This tool use's GPT-3 in order to generate your excuse. 
 It is provided with the text-davinci-003 model which can perform any task in high-quality
 and has an awesome instruction following.
+
+![Prototype n°1](https://imgur.com/xXbB0cp)
 
 <!-- ```bash
 npm run dev
