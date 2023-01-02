@@ -13,11 +13,13 @@ and has an awesome instruction following.
 
 ![Prototype n°1](/screenshot.png)
 
-<!-- ```bash
+## In order to run it localy
+```bash
+npm init -y
+# 
+npm install
 npm run dev
-# or
-yarn dev
-``` -->
+```
 
 <!-- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
