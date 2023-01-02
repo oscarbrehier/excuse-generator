@@ -11,7 +11,7 @@ This tool use's GPT-3 in order to generate your excuse.
 It is provided with the text-davinci-003 model which can perform any task in high-quality
 and has an awesome instruction following.
 
-![Prototype n°1](https://imgur.com/xXbB0cp)
+![Prototype n°1](/screenshot.png)
 
 <!-- ```bash
 npm run dev
